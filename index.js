@@ -18,9 +18,13 @@ function inc(n){
   return n++
 }
 
+inc(337)
+
 function dec(n){
   return n--
 }
+
+dec(203)
 
 function makeInt(n){
   return parseInt(n, 10)
